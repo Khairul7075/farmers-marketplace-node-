@@ -1,1 +1,11 @@
-
+SupplyID,SupplyType,SupplyName,Price,StockAvailable
+301,Fertilizer,Urea Fertilizer,12.00,500
+302,Fuel,Tractor Diesel Fuel,75.00,1000
+303,Seeds,Hybrid Maize Seeds,8.50,750
+304,Fertilizer,Organic Compost,20.00,300
+305,Equipment,Irrigation Pipe Set,250.00,120
+306,Safety Gear,Protective Gloves,30.00,400
+307,Chemicals,Pesticide Spray,18.50,600
+308,Equipment,Hand Hoe,400.00,75
+309,Equipment,Drip Irrigation Nozzles,6.75,950
+310,Clothing,Raincoat for Field Workers,95.00,250
