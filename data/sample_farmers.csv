@@ -1,6 +1,5 @@
-FarmerID,Name,Location,PhoneNumber,Email,RegistrationDate
-101,Ramesh Yadav,Siliguri,9834567890,rameshyadav@example.com,2023-03-15
-102,Anita Roy,Darjeeling,9801234567,anitaroy@example.com,2023-05-10
-103,Manoj Sharma,Jalpaiguri,9745623890,manojsharma@example.com,2023-07-01
-104,Kusum Devi,Kalimpong,9876543211,kusumdevi@example.com,2023-08-05
-105,Suresh Das,Cooch Behar,9732145780,sureshdas@example.com,2023-09-12
+FarmerID,Username,Password,Name,Gender,PhoneNumber,Location,Email,RegistrationDate
+1,ramesh123,pass@123,Ramesh Kumar,Male,9876543210,Patna,ramesh@example.com,2023-04-15
+2,sunita456,sunita@456,Sunita Devi,Female,9123456780,Ranchi,sunita@example.com,2023-05-10
+3,arjun789,arjun@789,Arjun Singh,Male,9988776655,Lucknow,arjun@example.com,2023-06-01
+4,meena321,meena@321,Meena Sharma,Female,9001122334,Bhopal,meena@example.com,2023-07-20
